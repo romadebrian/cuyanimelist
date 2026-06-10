@@ -1,4 +1,4 @@
-import AnimeList from "@/app/components/AnimeList";
+import AnimeList from "@/components/AnimeList";
 import Link from "next/link";
 const Home = async () => {
   const response = await fetch(
