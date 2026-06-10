@@ -12,6 +12,8 @@
 
 img {
   width: 100%;
+  min-height: 350px;
+  max-height: 350px;
   height: auto;
   transition: 0.3s ease all;
   -webkit-transition: 0.3s ease all;
